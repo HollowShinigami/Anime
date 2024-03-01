@@ -1,0 +1,85 @@
+{
+  "clothing": {
+     "hat": [
+      { "name": "Hat", "description": "A varity shaped covering for the head, usually with a crown and brim, especially for wear outdoors" },
+      { "name": "Hair ornament", "description": "Anything decorative that one would wear on one's head" },
+      { "name": "Nothing", "description": "Nothing worn over head" }
+    ],     
+    "shades": [
+      { "name": "Glasses", "description": "A frame that holds 2 pieces of glass or plastic of various colors to correct refractive errors" },
+      { "name": "Nothing", "description": "Nothing worn over eyes" }
+    ],
+    "tops": [
+      { "name": "Sailor fuku", "description": "Sailor-style uniform with collar and bow" },
+      { "name": "T-shirt", "description": "Casual shirt with short sleeves" },
+      { "name": "Sweatshirt", "description": "Long-sleeved pullover garment" },
+      { "name": "Kimono", "description": "Traditional Japanese robe" },
+      { "name": "Bathing suit", "description": "Swimwear for various styles and activities" },
+      { "name": "Topless", "description": "Absence of clothing from bottoms from upper body" }
+    ],
+    "bottoms": [
+      { "name": "Skirt", "description": "Garment covering the lower body" },
+      { "name": "Shorts", "description": "Short pants reaching the mid-thigh or above" },
+      { "name": "Jeans", "description": "Denim trousers" },
+      { "name": "Leggings", "description": "Close-fitting elastic pants" },
+      { "name": "Dress", "description": "One-piece garment covering the body" },
+      { "name": "Bottomless", "description": "Absence of clothing from bottoms" }
+    ],
+    "accessories": [
+      { "name": "Headband", "description": "Band worn around the head" },
+      { "name": "Hair clip", "description": "Clip used to hold hair in place" },
+      { "name": "Scarf", "description": "Length of fabric worn around the neck or head" },
+      { "name": "Jewelry", "description": "Decorative items like necklaces, earrings, or bracelets" },
+      { "name": "Socks", "description": "Footwear covering the ankle or part of the leg" }
+    ],
+    "shoes": [
+      { "name": "Sneakers", "description": "Athletic shoes with rubber soles" },
+      { "name": "Loafers", "description": "Low-cut slip-on shoes" },
+      { "name": "Boots", "description": "Footwear covering the ankle and part of the leg" },
+      { "name": "High heels", "description": "Shoes with elevated heels" },
+      { "name": "Bare foot", "description": "Bare foot" },
+      { "name": "Sandals", "description": "Open shoes with straps or soles" }
+    ],
+    "underware Chest" : [
+      { "name": "Bra", "description": "A form-fitting undergarment that covers and supports a woman's breasts" },
+      { "name": "Braless", "description": "Absence of a form-fitting undergarment that covers and supports a woman's breasts" },
+      { "name": "Bikini top", "description": "The part of a bikini that covers the breasts" }
+    ],
+    "underware bottom" : [
+      { "name": "Panties ", "description": "Short, close-fitting underpants worn by women or girls" },
+      { "name": "Pantiesless", "description": "Absence of a short, close-fitting underpants worn by women or girls" },
+      { "name": "Thong", "description": "A piece of underwear or the bottom part of a bikini with a very narrow part at the back that does not cover the bottom" },
+      { "name": "Bikini bottom", "description": " the part of a bikini worn over the groin" }
+    ]
+  },
+  "onepiece": {
+    "head": [
+      { "name": "Animal ears", "description": "A varity of animal ears worn by woman in cosplay or slave outfits" },
+      { "name": "Hair ornament", "description": "Anything decorative that one would wear on one's head" },
+      { "name": "Nothing", "description": "Nothing worn over head" }
+    ],
+    "Onepiece": [
+      { "name": "Latex top", "description": "A latex suit resembling a swimsuit coming in various colors" },
+      { "name": "Latex", "description": "Full body latex suit" },
+      { "name": "Nude", "description": "No clothing" }
+    ],
+    "buttom": [
+      { "name": "Pantyhouse", "description": "Various thin skin tight seethrough clothing worn over legs including nets" },
+      { "name": "Nude", "description": "No clothing" }
+    ],
+    "back ornament": [
+      { "name": "Wings", "description": "Various wings worn in cosplay" },
+      { "name": "No wings", "description": "No wings" }
+    ],
+    "ornament": [
+      { "name": "Plugs", "description": "Various plugs with gems and tails connected to its end" },
+      { "name": "No plugs", "description": "Plugs" }
+    ],
+    "shoes": [
+      { "name": "Boots", "description": "Footwear covering the ankle and part of the leg" },
+      { "name": "High heels", "description": "Shoes with elevated heels" },
+      { "name": "Bare foot", "description": "Bare foot" },
+      { "name": "Sandals", "description": "Open shoes with straps or soles" }
+    ]
+  }
+}
